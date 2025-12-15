@@ -1,0 +1,16 @@
+# 1. número de articulaciones
+# 2. Ángulos de rotación iniciales
+# 3. Distancias iniciales entre articulaciones
+# 4. límites superiores rotaciones
+# 5. límites inferiores rotaciones
+# 6. Tipos de articulación, Rotación = 0, Prismática = 1
+# 7. Límites superiores de distancia entre articulaciones
+# 8. Límites inferiores de distancia entre articulaciones
+4
+0 0 0 0
+5 5 5 5
+90 90 90 90
+-90 -90 -90 -90
+0 0 0 0
+15 15 15 15
+1 1 1 1
